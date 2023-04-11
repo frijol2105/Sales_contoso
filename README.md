@@ -7,7 +7,7 @@ Objetive: Creat dasboard and analize sales situation of Contoso in 2019
 - I drew the logic tree to expose the situation and not lose the dimensions to analyze.
 - Used sql for collect,gather and clean data.
 - Draw data model of Contoso Dataset full based on a star schema.
-- Collect table and Draw of dataset sale_contoso for BI tool based on data model of Contoso dataset full.
-- Created Metrics dictionary of dashboard.
+- Collect table and Draw new model for sale contoso dataset for BI tool based on data model of Contoso dataset full.
+- Created Metrics dictionary.
 - Visualization with Power Bi.
 
